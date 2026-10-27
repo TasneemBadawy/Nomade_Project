@@ -1,16 +1,52 @@
-# React + Vite
+# Nomade – Tourism Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+Nomade is a tourism platform that helps tourists explore tours, discover activities, and book verified tour guides.
 
-Currently, two official plugins are available:
+## Technologies Used
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL
+- **Authentication:** JWT
+- **API Testing:** Postman
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- Browse available tours and activities.
+- Book tour guides and tours.
+- User authentication and authorization.
+- RESTful API integration between the frontend and backend.
 
-## React Compiler
+## My Role
+- Led a team of 4 members and coordinated task distribution.
+- Developed the backend using Node.js and Express.js.
+- Integrated the React frontend with the backend APIs.
+- Designed the Entity-Relationship Diagram (ERD).
+- Implemented JWT-based authentication and tested API endpoints using Postman.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Live Demo
+[View Nomade](YOUR_DEPLOYED_FRONTEND_URL)
 
-## Expanding the ESLint configuration
+## Installation and Setup
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+   ```bash
+   git clone YOUR_REPOSITORY_URL
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd YOUR_PROJECT_DIRECTORY
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Note
+The backend and database must be configured separately for full application functionality.
