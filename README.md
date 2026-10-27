@@ -30,7 +30,7 @@ Nomade is a tourism platform that helps tourists explore tours, discover activit
 
 1. Clone the repository:
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone (https://github.com/TasneemBadawy/Nomade_Project.git)
    ```
 
 2. Navigate to the project directory:
